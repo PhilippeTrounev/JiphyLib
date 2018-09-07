@@ -3,7 +3,6 @@
 ## path inclusions
 import sys
 import os
-sys.path.append(os.getcwd() + '//..//lib')
 ## libraries
 from difflib import SequenceMatcher
 import json
